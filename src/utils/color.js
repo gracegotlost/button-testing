@@ -1,4 +1,5 @@
 const colorTokens = {
+  white: "#FFFFFF",
   blue100: "#F2FAFF",
   blue200: "#E0F2FF",
   blue300: "#A6E5FF",
